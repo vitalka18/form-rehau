@@ -1,0 +1,14 @@
+.tooltipster-card-icon{
+	background:#e1447e;
+	color: #fff;
+	border: 1px solid #e1447e;
+	margin-right:10px;
+}
+
+.tooltipster-card-icon .tooltipster-content {
+	font-family: Arial, sans-serif;
+	font-size: 14px;
+	line-height: 16px;
+	color: #fff;
+	padding: 8px 10px;
+}
